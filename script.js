@@ -42,7 +42,7 @@ function efectoHabilidades() {
         document.getElementById("bo").classList.add("barra-progreso5");
         document.getElementById("ma").classList.add("barra-progreso6");
         document.getElementById("herra").classList.add("barra-progreso7");
-        document.getElementById("an").classList.add("barra-progreso8");
+        document.getElementById("angular").classList.add("barra-progreso8");
     }
 
 }
