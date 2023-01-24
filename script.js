@@ -8,6 +8,7 @@ function seleccionar(link) {
     opciones[4].className = "";
     opciones[5].className = "";
     opciones[6].className = "";
+    opciones[7].className = "";
     link.className = "seleccionado";
 
     //Hacemos desaparecer el menu una vez que se ha seleccionado una opcion
@@ -41,6 +42,7 @@ function efectoHabilidades() {
         document.getElementById("bo").classList.add("barra-progreso5");
         document.getElementById("ma").classList.add("barra-progreso6");
         document.getElementById("herra").classList.add("barra-progreso7");
+        document.getElementById("an").classList.add("barra-progreso8");
     }
 
 }
