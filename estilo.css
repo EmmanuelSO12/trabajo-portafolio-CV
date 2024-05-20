@@ -379,7 +379,20 @@
             height: 6px;
             animation: progreso8 2s forwards;
         }
-        
+
+        .contenedor-skill .skill .barra .barra-progreso9{
+            background-color: #fff;
+            width: 50%;
+            height: 6px;
+            animation: progreso8 2s forwards;
+        }
+
+        .contenedor-skill .skill .barra .barra-progreso10{
+            background-color: #fff;
+            width: 50%;
+            height: 6px;
+            animation: progreso8 2s forwards;
+        }
         @keyframes progreso1 {
             0% {
                 width: 0;
@@ -451,6 +464,26 @@
                 width: 50%;
             }
         }
+
+
+        @keyframes progreso9 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 85%;
+            }
+        }
+
+        @keyframes progreso10 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 85%;
+            }
+        }
+
         /* *********************/
         /* seccion P O R T F O L I O */
         /* *********************/
