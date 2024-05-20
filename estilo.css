@@ -384,14 +384,14 @@
             background-color: #fff;
             width: 50%;
             height: 6px;
-            animation: progreso8 2s forwards;
+            animation: progreso9 2s forwards;
         }
 
         .contenedor-skill .skill .barra .barra-progreso10{
             background-color: #fff;
             width: 50%;
             height: 6px;
-            animation: progreso8 2s forwards;
+            animation: progreso10 2s forwards;
         }
         @keyframes progreso1 {
             0% {
